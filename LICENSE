@@ -1,3 +1,9 @@
+SCOPE: This MIT license applies ONLY to files in the root directory and subdirectories 
+EXCEPT the 'assets/svg' folder. See assets/svg/LICENSE for those files.
+
+--- MIT License follows below ---
+
+
 MIT License
 
 Copyright (c) 2026 aggron-redoc
