@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_3"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   style="enable-background:new 0 0 128 128;"
+   xml:space="preserve"
+   sodipodi:docname="flame_emoji_outer.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13" /><sodipodi:namedview
+   id="namedview13"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="6.2734375"
+   inkscape:cx="63.920299"
+   inkscape:cy="64"
+   inkscape:window-width="1800"
+   inkscape:window-height="1054"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_3" />
+<g
+   id="g13">
+	
+		<radialGradient
+   id="SVGID_1_"
+   cx="68.8839"
+   cy="124.2963"
+   r="70.587"
+   gradientTransform="matrix(-1 -4.343011e-03 -7.125917e-03 1.6408 131.9857 -79.3452)"
+   gradientUnits="userSpaceOnUse">
+		<stop
+   offset="0.3144"
+   style="stop-color:#FF9800"
+   id="stop1" />
+		<stop
+   offset="0.6616"
+   style="stop-color:#FF6D00"
+   id="stop2" />
+		<stop
+   offset="0.9715"
+   style="stop-color:#F44336"
+   id="stop3" />
+	</radialGradient>
+	<path
+   style="fill:url(#SVGID_1_);"
+   d="M35.56,40.73c-0.57,6.08-0.97,16.84,2.62,21.42c0,0-1.69-11.82,13.46-26.65   c6.1-5.97,7.51-14.09,5.38-20.18c-1.21-3.45-3.42-6.3-5.34-8.29C50.56,5.86,51.42,3.93,53.05,4c9.86,0.44,25.84,3.18,32.63,20.22   c2.98,7.48,3.2,15.21,1.78,23.07c-0.9,5.02-4.1,16.18,3.2,17.55c5.21,0.98,7.73-3.16,8.86-6.14c0.47-1.24,2.1-1.55,2.98-0.56   c8.8,10.01,9.55,21.8,7.73,31.95c-3.52,19.62-23.39,33.9-43.13,33.9c-24.66,0-44.29-14.11-49.38-39.65   c-2.05-10.31-1.01-30.71,14.89-45.11C33.79,38.15,35.72,39.11,35.56,40.73z"
+   id="path3" />
+	<g
+   id="g12">
+		
+			<radialGradient
+   id="SVGID_2_"
+   cx="64.9211"
+   cy="54.0621"
+   r="73.8599"
+   gradientTransform="matrix(-0.0101 0.9999 0.7525 7.603777e-03 26.1538 -11.2668)"
+   gradientUnits="userSpaceOnUse">
+			<stop
+   offset="0.2141"
+   style="stop-color:#FFF176"
+   id="stop4" />
+			<stop
+   offset="0.3275"
+   style="stop-color:#FFF27D"
+   id="stop5" />
+			<stop
+   offset="0.4868"
+   style="stop-color:#FFF48F"
+   id="stop6" />
+			<stop
+   offset="0.6722"
+   style="stop-color:#FFF7AD"
+   id="stop7" />
+			<stop
+   offset="0.7931"
+   style="stop-color:#FFF9C4"
+   id="stop8" />
+			<stop
+   offset="0.8221"
+   style="stop-color:#FFF8BD;stop-opacity:0.804"
+   id="stop9" />
+			<stop
+   offset="0.8627"
+   style="stop-color:#FFF6AB;stop-opacity:0.529"
+   id="stop10" />
+			<stop
+   offset="0.9101"
+   style="stop-color:#FFF38D;stop-opacity:0.2088"
+   id="stop11" />
+			<stop
+   offset="0.9409"
+   style="stop-color:#FFF176;stop-opacity:0"
+   id="stop12" />
+		</radialGradient>
+		
+	</g>
+</g>
+</svg>
